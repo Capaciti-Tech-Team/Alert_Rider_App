@@ -1,7 +1,7 @@
 # 🚨 Alert Rider – Hazard Reporting App
 
 **Alert Rider** is a web application that allows users to report hazards, study road signs, and learn safe road practices.  
-It integrates **AI (OpenAI API)** to rewrite hazard descriptions clearly and professionally, and can translate hazard reports into South African languages.
+It integrates **AI (OpenAI API)** to rewrite hazard descriptions clearly and professionally, and can translate hazard reports into South African languages. 
 
 🔗 **Live Demo:** [Alert Rider App](https://alerttriderapp.onrender.com/)
 
